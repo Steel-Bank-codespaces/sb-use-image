@@ -1,6 +1,6 @@
 {
 	"name": "scipy-notebook",
-	"image": "jupyter/scipy-notebook",
+	"image": "jkitchin/pycse-ddm",
 
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
